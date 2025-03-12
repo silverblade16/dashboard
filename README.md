@@ -1,1 +1,12 @@
-Initial setup
+local:
+
+
+npm i
+
+
+npm run build
+
+
+npm start
+
+
